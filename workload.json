@@ -10,6 +10,11 @@
             "first_name": "Abdul Samad",
             "last_name": "Saleem Rashid",
             "workload": 0.25
+        },
+        {
+            "first_name": "Peter",
+            "last_name": "Fischer",
+            "workload": 0.25
         }
         // ...add a record for each student
     ]
