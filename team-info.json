@@ -8,6 +8,13 @@
             "email": "paul-lehner@gmx.at",
             "github_user": "Suppenschale"
         },
+        {
+            "student_id": "k12102665",
+            "first_name": "Peter",
+            "last_name": "Fischer",
+            "email": "peterfischer838@gmail.com",
+            "github_user": "Pedda2001"
+        },
         // ...add a record for each student
     ]
 }
