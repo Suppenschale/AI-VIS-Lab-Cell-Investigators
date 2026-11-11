@@ -20,6 +20,13 @@
             "last_name": "Laskos",
             "email": "k12440903@students.jku.at",
             "github_user": "ioanlaskos-max"
+        },
+        {
+            "student_id": "k12248151",
+            "first_name": "Abdul Samad",
+            "last_name": "Saleem Rashid",
+            "email": "k12248151@students.jku.at",
+            "github_user": "4bdulsamad"
         }
         // ...add a record for each student
     ]
