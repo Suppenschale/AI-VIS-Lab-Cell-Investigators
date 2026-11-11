@@ -14,7 +14,13 @@
             "last_name": "Fischer",
             "email": "peterfischer838@gmail.com",
             "github_user": "Pedda2001"
-        },
+        },{
+            "student_id": "k12440903",
+            "first_name": "Ioannis",
+            "last_name": "Laskos",
+            "email": "k12440903@students.jku.at",
+            "github_user": "ioanlaskos-max"
+        }
         // ...add a record for each student
     ]
 }
