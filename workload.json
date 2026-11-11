@@ -1,0 +1,11 @@
+{
+    "team_name": "Cell Investigators",
+    "students": [
+        {
+            "first_name": "Paul",
+            "last_name": "Lehner",
+            "workload": 0.25
+        },
+        // ...add a record for each student
+    ]
+} 

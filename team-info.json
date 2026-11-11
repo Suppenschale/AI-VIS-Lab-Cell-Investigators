@@ -1,0 +1,13 @@
+{
+    "team_name": "Cell Investigators",
+    "students": [
+        {
+            "student_id": "k12145051",
+            "first_name": "Paul",
+            "last_name": "Lehner",
+            "email": "paul-lehner@gmx.at",
+            "github_user": "Suppenschale"
+        },
+        // ...add a record for each student
+    ]
+}
